@@ -19,7 +19,7 @@ Project Description:
  - Nike (NKE)
  - Overstock, Inc (OSTK)
  
- #Time Period:
+ Time Period:
  2019 to Present (June 30, 2023)
  
  *Research questions to answer*
