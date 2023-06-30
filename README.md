@@ -1,6 +1,6 @@
 ### Project Title
 ---
-*RJM Financial Planners
+*RJM Financial Planners*
 
 *Team Members:*
 1. Julian Hendrickson
