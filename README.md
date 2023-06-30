@@ -22,6 +22,6 @@ Project Description:
  #Time Period:
  2019 to Present (June 30, 2023)
  
- *Research questions to answer
+ *Research questions to answer*
  1. How did the pandemic affect the different industries?
  2. Did crypto perfom during the pandemic with no cash circulating
