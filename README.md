@@ -24,4 +24,4 @@ Project Description:
  
  *Research questions to answer*
  1. How did the pandemic affect the different industries?
- 2. Did crypto perfom during the pandemic with no cash circulating
+ 2. How did crypto perfom during the pandemic with no cash circulating?
