@@ -1,15 +1,15 @@
 ### Project Title
 ---
-***RJM Financial Planners
+*RJM Financial Planners
 
-***Team Members:*
+*Team Members:*
 1. Julian Hendrickson
 2. Monica Davis
 3. Rachel Mwangi
 
 
 Project Description:
-**** Stock Portfolio Automation ****
+* Stock Portfolio Automation *
  - S&P
  - Gold
  - Ethereum (ETH-USD)
