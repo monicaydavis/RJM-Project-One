@@ -9,7 +9,8 @@
 
 
 Project Description:
-* Stock Portfolio Automation *
+Stock Portfolio Analysis and Automation
+---
  - S&P
  - Gold
  - Ethereum (ETH-USD)
