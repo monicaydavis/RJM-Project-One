@@ -44,7 +44,11 @@ An analysis of the pandemics impact to finance. Utilizing a faux portfolio compr
 
 
  **Rough breakdown of tasks**
+ 
   [ ]Import the data
+  
   [ ]Parse out stocks
+  
   [ ]Analyze stock perfomance
+  
   [ ]Create visualization for the questions answered 
