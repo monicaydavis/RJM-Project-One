@@ -38,6 +38,7 @@ An analysis of the pandemics impact to finance. Utilizing a faux portfolio compr
          * How did they perform individually and together as a mutual fund
          
 **BONUS QUESTION** 
+
  4. If you had an opportunity to re diversify your portfolio using this as a model how would you do it in preparition for the next pandemic should we have another.
  
 
